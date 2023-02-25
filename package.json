@@ -1,0 +1,39 @@
+{
+  "name": "work-gulp",
+  "version": "0.4",
+  "description": "Для верски",
+  "main": "index.js",
+  "scripts": {
+    "plugins": "gulp plugins",
+    "dev": "gulp dev",
+    "build": "gulp build",
+    "prod": "gulp prod",
+    "cleandist": "gulp cleandist"
+  },
+  "author": "Oleg Krechkovskiy",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "chokidar": "^3.4.0",
+    "compress-images": "^2.0.5",
+    "eslint": "^8.34.0",
+    "gifsicle": "^5.3.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-less": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "i": "^0.3.7",
+    "jquery": "^3.6.1",
+    "jquery-validation": "^1.19.5",
+    "jquery.maskedinput": "^1.4.1",
+    "normalize.css": "^8.0.1",
+    "npm": "^8.19.2",
+    "pngquant-bin": "^6.0.0",
+    "sass": "^1.55.0"
+  }
+}
