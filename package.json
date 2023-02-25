@@ -1,8 +1,10 @@
 {
-  "name": "work-gulp",
-  "version": "0.4",
+  "name": "simple-layout-builder",
   "description": "Для верски",
+  "version": "0.2.0",
+  "author": "Oleg Krechkovskiy",
   "main": "index.js",
+  "license": "MIT License",
   "scripts": {
     "plugins": "gulp plugins",
     "dev": "gulp dev",
@@ -10,8 +12,6 @@
     "prod": "gulp prod",
     "cleandist": "gulp cleandist"
   },
-  "author": "Oleg Krechkovskiy",
-  "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.10",
     "chokidar": "^3.4.0",
