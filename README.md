@@ -1,6 +1,7 @@
 ## Commands
+![GitHub](https://img.shields.io/github/license/OlegKrechkovskiy/simple-layout-builder)  ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/OlegKrechkovskiy/simple-layout-builder/main?label=version)
 
-Устанавливаем все зависимости `npm install`
+> Устанавливаем все зависимости `npm install`
 
 ### Запуск с помощью `GULP`
 
